@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    border-radius: 3px;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#save-btn {
+    background-color: #4CAF50;
+}
+
+#close-btn {
+    background-color: #f44336;
+}
+.nav-link.active{
+    border-bottom: 2px solid #000;
+}
